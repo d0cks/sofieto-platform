@@ -1,2 +1,2 @@
 # sofieto-platform
-Projeto piloto do desenvolvimento de uma aplicação para a escola e luteria de acordeons, Sofieto.
+Este projeto baseia-se no desenvolvimento de uma plataforma para a escola e luteria Sofieto Acordeons. O objetivo principal é desenvolver um ambiente interativo tanto para equipe, quanto para clientes.
